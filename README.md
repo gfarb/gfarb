@@ -1,13 +1,13 @@
-### Hi there 👋
+### Welcome to Max Goldfarb's GitHub Profile ☁️
 
-<img src="https://i.imgur.com/wZz68Rq.jpeg" height="400">
+<img src="IMG_0455.png" height="300">
 
-### About Me
-- Software Engineer at GitHub
+## About Me
+- Software Engineer at GitHub.
 - Boston, Massachusetts.
-- 2021 Salesforce Platform Champion (retired program).
 - 2x Certified Salesforce Platform Developer (PDI & PDII).
-- Subject matter expert and participant in the creation of the new Salesforce UX Designer Certification.
+- 2021 Salesforce Platform Champion (retired program).
+- Subject matter expert and participant in the creation of the Salesforce UX Designer Certification.
 - Tenaciously interested in new technology & Information Security.
 - Profoundly determined toward achieving my vocational goals.
-- Acknowledged on Red Hat’s 2020 Security Vulnerability Disclosure Hall of Fame.
+- Acknowledged on [Red Hat’s 2020 Security Vulnerability Disclosure Hall of Fame](https://access.redhat.com/articles/66234).
