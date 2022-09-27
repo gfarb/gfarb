@@ -6,8 +6,10 @@
 
 ## [About Me](https://goldfarb.dev)
 - Software Engineer III - Salesforce at GitHub
-- 2x Certified Salesforce Platform Developer (PDI & PDII)
-- Dreamforce 20th Anniversary Speaker (2022)
-- 2021 Salesforce Platform Champion
-- Subject matter expert for the creation of the Salesforce UX Designer Certification
-- Acknowledged on [Red Hat’s 2020 Security Vulnerability Disclosure Hall of Fame](https://access.redhat.com/articles/66234)
+- [2x Certified Salesforce Platform Developer](https://trailblazer.me/id/goldfarb) (PDI & PDII)
+- [Dreamforce 20th Anniversary Speaker](https://reg.salesforce.com/flow/plus/dreamforce22/maincontentcatalog/page/Catalog/session/1656082526486001w1rz) (2022).
+- 2021 Salesforce Platform Champion.
+- Helped Salesforce create the UX Designer Certification as a subject matter expert.
+- [JavaScript Programming Certificate](https://gist.githubusercontent.com/gfarb/aeea5ea28116e13c79a339524e7ad08a/raw/4a1cec4947158ead06db93812479e793eaecdd6a/CertificateReport.jpg) from Cornell University Bowers College of Computing and Information Science.
+- Acknowledged on [Red Hat’s 2020 Security Vulnerability Disclosure Hall of Fame](https://access.redhat.com/articles/66234).
+- Meat smoker, Parrothead, recreational bug bounty hunter, fisherman, Master Pokémon Trainer & craft beer enjoyer.
