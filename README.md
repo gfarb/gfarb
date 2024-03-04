@@ -5,7 +5,7 @@
 </p>
 
 ## [About Me](https://goldfarb.dev)
-- Software Engineer III - Salesforce at GitHub.
+- Software Engineer III at GitHub.
 - [2x Certified Salesforce Platform Developer](https://trailblazer.me/id/goldfarb) (PDI & PDII).
 - [Dreamforce 20th Anniversary Speaker](https://reg.salesforce.com/flow/plus/dreamforce22/maincontentcatalog/page/Catalog/session/1656082526486001w1rz) (2022).
 - 2021 Salesforce Platform Champion.
