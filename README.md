@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Max%20Goldfarb&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20GitHub%20Copilot&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6e78,100:0d1117&height=220&section=header&text=Max%20Goldfarb&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20GitHub%20Copilot&descSize=20&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+GitHub+Copilot+for+20M%2B+users+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -85,14 +85,13 @@ hobbies: [🏃 running, 🏄 surfing, 🏌️ golf, 📚 reading, 🍖 BBQ, 🥃
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" width="30" />
-
 *"It's five o'clock somewhere"* 🍹
 
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" width="30" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6e78,100:0d1117&height=120&section=footer" width="100%" />
