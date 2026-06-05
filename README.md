@@ -62,11 +62,14 @@ hobbies: [🏃 running, 🏄 surfing, 🏌️ golf, 📚 reading, 🍖 BBQ, 🥃
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=gfarb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="520" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gfarb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="520" />
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/58a6ff/gfarb" alt="gfarb's GitHub contributions" width="520" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gfarb&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gfarb&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="520" />
+</picture>
 
 </div>
 
